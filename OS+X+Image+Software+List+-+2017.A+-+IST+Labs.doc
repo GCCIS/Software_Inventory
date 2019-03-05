@@ -1,0 +1,686 @@
+Message-ID: <1906307656.10376.1551300224910.JavaMail.tlswikiconfluencesvc@TLSwiki>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10375_506748266.1551300224909"
+
+------=_Part_10375_506748266.1551300224909
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>OS X Image Software List - 2017.A - IST Labs</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>OS X Image Software List - 2017.A - IST Labs</h1>
+    <div class=3D"Section1">
+        <p>&nbsp;</p>
+<p>Version numbers in&nbsp;<strong>BOLD&nbsp;</strong>have been updated sin=
+ce the last image.</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Application</p></th>
+<th class=3D"confluenceTh"><p>Version</p></th>
+<th class=3D"confluenceTh"><p>Courses</p></th>
+<th colspan=3D"1" class=3D"confluenceTh">Notes</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Adobe Acrobat Pro</p></td>
+<td class=3D"confluenceTd"><p>2015.0</p></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Adobe After Effects CC</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2017</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-206</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Adobe Illustrator CC</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2017</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-105, ISTE-205</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Adobe InDesign CC</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2017</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Adobe Lightroom CC</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2015.8</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-205</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Adobe Photoshop CC</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">2017.0.1</td>
+<td class=3D"confluenceTd"><p>ISTE-105, ISTE-205</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Adobe Premier Pro CC</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2017</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-206</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Adobe Flash Player</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><p><strong>25.0.0.194</strong></p></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Android Studio</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><p><strong>2.3.2</strong></p></td>
+<td class=3D"confluenceTd"><p>ISTE-358, ISTE-456, ISTE-458, ISTE-776</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Ant</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>1.10.1</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-422</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Arduino IDE</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>1.8.2</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Audacity</strong></p></td>
+<td class=3D"confluenceTd"><strong>2.1.3</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Axure RP</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>8.0.0.3338</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>BBEdit</strong></p></td>
+<td class=3D"confluenceTd"><strong>11.6.6</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-105, ISTE-140, ISTE-341</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Bean Nodes</td>
+<td colspan=3D"1" class=3D"confluenceTd">0.5.2</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>BeanLoader</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>1.12.6</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>BlueJ</strong></p></td>
+<td class=3D"confluenceTd"><strong>4.0.1</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-120</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Bower</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">1.8.0</td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Brew</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>1.2.1</strong></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Browserify</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>14.4.0</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Chrome</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>58.x.xxxx.xx</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">Standard</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>cocoaDialog</strong></p></td>
+<td class=3D"confluenceTd"><strong>3.0.0b7</strong></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Cordova</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>7.0.1</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Deep Freeze</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>8.3.x</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">Standard</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Eclipse</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">4.6.2</td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Evothings Workbench</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2.2.0</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Fetch</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">5.7.6</td>
+<td class=3D"confluenceTd"><p>ISTE-105, ISTE-140, ISTE-341, ISTE-756</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Filezilla</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>3.25.2</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-105, ISTE-140, ISTE-240</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Firefox</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><p><strong>53.0.3</strong></p></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Firefox Dev Edition</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><p><strong>54.0a2</strong></p></td>
+<td class=3D"confluenceTd"><p>ISTE-240</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>GenyMotion</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>2.9</strong></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Git</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>2.13.0</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-422, ISTE-454, ISTE-456, ISTE-774, ISTE-=
+776</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Hex Fiend</strong></p></td>
+<td class=3D"confluenceTd"><strong>2.5</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-121</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Intel XDK</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>3977</strong></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Ionic</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>3.3.0</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-252</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>iOS-Sim</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">5.0.13</td>
+<td class=3D"confluenceTd"><p>ISTE-252, ISTE-358, ISTE-454, ISTE-458, ISTE-=
+774</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>iMovie</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">10.1.4</td>
+<td class=3D"confluenceTd"><p>ISTE-206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>iStopMotion</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">3.8.2</td>
+<td class=3D"confluenceTd"><p>ISTE-206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Java SDK</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>8u131</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-120, ISTE-121</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>jGRASP</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>2.0.4</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-120, ISTE-121, ISTE-341, ISTE-756</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>MAMP</strong></p></td>
+<td class=3D"confluenceTd"><strong>4.1.1</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-341, ISTE-756</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Includes PHP 5.7, MySQL 5.5.42</td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Microsoft Office</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">15.30.0</td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Includes Excel, PowerPoint, OneNot=
+e, Outlook, Word</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Miro</p></td>
+<td class=3D"confluenceTd">6.0</td>
+<td class=3D"confluenceTd"><p>ISTE 206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Switch</strong></p></td>
+<td class=3D"confluenceTd"><strong>5.15</strong></td>
+<td class=3D"confluenceTd"><p>ISTE 206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>MySQL Workbench</strong></p></td>
+<td class=3D"confluenceTd"><strong>6.3.9</strong></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>NetBeans</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>8.2</strong></p></td>
+<td class=3D"confluenceTd"><p>ISTE-422, ISTE-341, ISTE-756</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Node.js</p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+">6.9.4</td>
+<td class=3D"confluenceTd"><p>ISTE-341, ISTE-358, ISTE-458, ISTE-756</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Node Red</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>0.16.2</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>NW.js</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>0.22.3</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Opera</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><p><strong>45.0.2552.888</strong></p></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Oxygen XML Suite</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>19</strong></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Particle IDE</strong></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><strong>1.8.0</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Particle-CLI</strong></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><strong>1.22.0</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Safari</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>10.1.1</strong></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Sketch</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>44.1</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-260</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">SoapUI</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">5.3.0</td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-341</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>VirtualBox</strong></p></td>
+<td class=3D"confluenceTd"><strong>5.1.2.2</strong></td>
+<td class=3D"confluenceTd"><p>Required for GenyMotion</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>VLC</strong></p></td>
+<td class=3D"confluenceTd"><strong>2.2.5.1</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-206</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>VMware Fusion</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>8.5.7</strong></td>
+<td class=3D"confluenceTd"><p>Standard</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Visual Studio Code</strong=
+></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>1.12.2</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-340, ISTE-754</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>Watchify</strong></td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow"><strong>3.9.0</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd">ISTE-358, ISTE-458</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Xcode</strong></p></td>
+<td class=3D"highlight-yellow confluenceTd" data-highlight-colour=3D"yellow=
+"><strong>8.3.2</strong></td>
+<td class=3D"confluenceTd"><p>ISTE-252, ISTE-358, ISTE-454, ISTE-774</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">XQuartz</td>
+<td class=3D"highlight-yellow confluenceTd" colspan=3D"1" data-highlight-co=
+lour=3D"yellow">2.7.11</td>
+<td colspan=3D"1" class=3D"confluenceTd">CSCI-141</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_10375_506748266.1551300224909--
